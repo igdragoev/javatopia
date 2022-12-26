@@ -1,4 +1,4 @@
-Javatopia Garbage Collection Wars - A programing challenge
+Javatopia Garbage Collection Wars - A programming challenge
 ==
 
 Platform for coding competition, the students collect garbage from from a graph via REST services. They need to follow some rules, very similar to the java GC.
